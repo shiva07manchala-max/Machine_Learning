@@ -1,1 +1,1 @@
-# Multi-Class-Disease-Diagnosis-Using-Multinomial-Logistic-Regression-_IIyr-odd-sem
+# MACHINE LEARNING-_IIyr-odd-sem
